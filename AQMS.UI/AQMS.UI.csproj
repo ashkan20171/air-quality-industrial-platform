@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE4C8ACF-DFAC-43DA-8EF9-B703B5F50817}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AQMS.UI</RootNamespace>
+    <AssemblyName>AQMS.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="DashboardForm.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AQMS.Core\AQMS.Core.csproj"><Project>{016F642E-52AB-4B1E-8C4C-1C0CD8EAE3AE}</Project><Name>AQMS.Core</Name></ProjectReference>
+    <ProjectReference Include="..\AQMS.Data\AQMS.Data.csproj"><Project>{78207E58-190E-48F7-87B8-1EAF8A91FD4E}</Project><Name>AQMS.Data</Name></ProjectReference>
+    <ProjectReference Include="..\AQMS.Device\AQMS.Device.csproj"><Project>{5FCECC89-F3E9-4DA0-A944-67CB1C74E246}</Project><Name>AQMS.Device</Name></ProjectReference>
+    <ProjectReference Include="..\AQMS.Communication\AQMS.Communication.csproj"><Project>{0DD1A486-F90C-4FCC-A5E5-1BC10BBB6C37}</Project><Name>AQMS.Communication</Name></ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

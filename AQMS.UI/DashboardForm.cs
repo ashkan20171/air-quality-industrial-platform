@@ -1,0 +1,1 @@
+using System.Windows.Forms; namespace AQMS.UI { public class DashboardForm : Form { public DashboardForm() { this.Text = "AQMS Dashboard"; } } }

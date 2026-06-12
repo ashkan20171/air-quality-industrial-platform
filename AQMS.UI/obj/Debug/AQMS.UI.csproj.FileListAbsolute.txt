@@ -1,0 +1,15 @@
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.UI.exe
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.UI.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Communication.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Core.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Data.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Device.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Core.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Data.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Device.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\bin\Debug\AQMS.Communication.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\obj\Debug\AQMS.UI.csproj.AssemblyReference.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\obj\Debug\AQMS.UI.csproj.CoreCompileInputs.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\obj\Debug\AQMS.UI.csproj.Up2Date
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\obj\Debug\AQMS.UI.exe
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.UI\obj\Debug\AQMS.UI.pdb

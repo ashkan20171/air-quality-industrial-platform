@@ -1,0 +1,6 @@
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\bin\Debug\AQMS.Communication.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\bin\Debug\AQMS.Communication.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\obj\Debug\AQMS.Communication.csproj.AssemblyReference.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\obj\Debug\AQMS.Communication.csproj.CoreCompileInputs.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\obj\Debug\AQMS.Communication.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Communication\obj\Debug\AQMS.Communication.pdb

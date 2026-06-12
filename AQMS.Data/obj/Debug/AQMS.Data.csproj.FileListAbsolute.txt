@@ -1,0 +1,6 @@
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\bin\Debug\AQMS.Data.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\bin\Debug\AQMS.Data.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\obj\Debug\AQMS.Data.csproj.AssemblyReference.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\obj\Debug\AQMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\obj\Debug\AQMS.Data.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Data\obj\Debug\AQMS.Data.pdb

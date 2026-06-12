@@ -1,0 +1,2 @@
+using System.Data.SqlClient;
+namespace AQMS.Data.Database { public class DatabaseConnection { private string connStr = @"Server=(localdb)\MSSQLLocalDB;Database=AQMSDB;Trusted_Connection=True;"; public SqlConnection GetConnection() => new SqlConnection(connStr); } }

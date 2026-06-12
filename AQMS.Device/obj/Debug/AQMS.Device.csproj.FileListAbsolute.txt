@@ -1,0 +1,6 @@
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\bin\Debug\AQMS.Device.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\bin\Debug\AQMS.Device.pdb
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\obj\Debug\AQMS.Device.csproj.AssemblyReference.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\obj\Debug\AQMS.Device.csproj.CoreCompileInputs.cache
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\obj\Debug\AQMS.Device.dll
+C:\Users\ashkan\Desktop\New folder (7)\AQMS.Device\obj\Debug\AQMS.Device.pdb

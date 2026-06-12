@@ -1,0 +1,1 @@
+using System; using System.Windows.Forms; namespace AQMS.UI { static class Program { [STAThread] static void Main() { Application.EnableVisualStyles(); Application.Run(new DashboardForm()); } } }
